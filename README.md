@@ -1,7 +1,7 @@
 <h2 align='center'>Hi, I’m AminBorvayeh | سلام من امین بروایه هستم </h2>
 <p align='center'>
-<img height='180px' src="https://github-readme-stats.vercel.app/api?username=amincxo&show_icons=true&theme=shades-of-purple" />
-<img height='180px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=amincxo&langs_count=8&layout=compact&theme=shades-of-purple" /> 
+<img height='150px' src="https://github-readme-stats.vercel.app/api?username=amincxo&show_icons=true&theme=shades-of-purple" />
+<img height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=amincxo&langs_count=8&layout=compact&theme=shades-of-purple" /> 
 </p>
 <h2 align='center' > I am a FrontEnd Developer and I Work with This Technologies </h2>
 <p align='center'>

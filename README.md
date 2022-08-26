@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amincxo
+<h1>👋 Hi, I’m @amincxo</h1.
 - 🌱 I’m currently learning React Native 
 - 📫 How to reach me Amincxo@gmail.com && instagram.com/amin_borvayeh/
 

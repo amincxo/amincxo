@@ -10,12 +10,12 @@
 <img height='150px' src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /> <!-- JavaScript Logo   -->
 <img height='150px' src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /> <!-- React Logo  -->
 </p>
-<h2 align='center' >📫 How To Contact Me :Amincxo@gmail.com && instagram.com/amin_borvayeh/</h2>
+<h2 align='center' >📫 How To Contact Me : </h2>
 
 <p align='center'>
-<a href="https://www.google.com/"><img height='150px' src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" /></a> <!-- Gmail Logo   -->
-<a href="https://www.google.com/"><img height='150px' src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" /></a> <!-- Linkedin Logo  -->
-<a href="https://www.google.com/"><img height='150px' src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" /></a> <!-- Instagram Logo  -->
-<a href="https://www.google.com/"><img height='150px' src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" /></a> <!-- Whatsapp Logo   -->
-<a href="https://www.google.com/"><img height='150px' src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" /></a> <!-- Telegram Logo  -->
+<a href="https://instagram.com/amin_borvayeh/"><img height='120px' src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" /></a> <!-- Whatsapp Logo   -->
+<a href="https://instagram.com/amin_borvayeh/"><img height='100px' src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" /></a> <!-- Telegram Logo  -->
+<a href="https://www.google.com/"><img height='100px' src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" /></a> <!-- Linkedin Logo  -->
+<a href="https://www.google.com/"><img height='100px' src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" /></a> <!-- Instagram Logo  -->
+<a href="https://www.google.com/"><img height='130px' width="110px" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" /></a> <!-- Gmail Logo   -->
 </p>

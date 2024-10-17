@@ -32,9 +32,9 @@
 <h2 align='center' >📫 How To Contact Me : </h2>
 
 <p align='center'>
-<a href="https://t.me/amincxo/"><img height='100px' src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" /></a> <!-- Telegram Logo  -->
-<a href="https://www.linkedin.com/in/amin-borvayeh/"><img height='100px' src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" /></a> <!-- Linkedin Logo  -->
-<a href="mailto: amincxo@gmail.com"><img height='100px' width="" src="https://seeklogo.com/images/G/gmail-logo-286F380C2D-seeklogo.com.png" /></a> <!-- Gmail Logo   -->
-<a href="https://instagram.com/amin_borvayeh/"><img height='100px' src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" /></a> <!-- Instagram Logo  -->
+<a href="https://t.me/amincxo/"><img height='50px' src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" /></a> <!-- Telegram Logo  -->
+<a href="https://www.linkedin.com/in/amin-borvayeh/"><img height='50px' src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" /></a> <!-- Linkedin Logo  -->
+<a href="mailto: amincxo@gmail.com"><img height='50px' width="" src="https://seeklogo.com/images/G/gmail-logo-286F380C2D-seeklogo.com.png" /></a> <!-- Gmail Logo   -->
+<a href="https://instagram.com/amin_borvayeh/"><img height='50px' src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" /></a> <!-- Instagram Logo  -->
 
 </p>

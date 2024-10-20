@@ -3,7 +3,7 @@
 <img height='150px' src="https://github-readme-stats.vercel.app/api?username=amincxo&show_icons=true&theme=shades-of-purple" />
 <img height='150px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=amincxo&langs_count=8&layout=compact&theme=shades-of-purple" /> 
 </p>
-1
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
